@@ -20,7 +20,7 @@ There are 2 possible options of configuration:
 Piped output can be useful when formatter is installed as a dev dependency.
 
 ```bash
-npx ts-node service.ts | npx @tsxper/log-stream-formatter-visual
+npx ts-node service.ts | npx @tsxper/log-stream-formatter-visual [logDepth]
 ```
 
 ### Replace Default Formatter
