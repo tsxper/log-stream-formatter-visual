@@ -1,6 +1,6 @@
 {
   "name": "@tsxper/log-stream-formatter-visual",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Visual formatter for @tsxper/log-stream",
   "scripts": {
     "test": "jest",
